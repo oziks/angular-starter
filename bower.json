@@ -1,0 +1,11 @@
+{
+  "name": "angular-starter",
+  "version": "0.0.1",
+  "authors": [
+    "Morgan Brunot <brunot.morgan@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.2.13"
+  }
+}

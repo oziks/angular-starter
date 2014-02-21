@@ -1,0 +1,17 @@
+{
+  "name": "angular-starter",
+  "version": "0.0.1",
+  "main": "index.html",
+  "author": "Morgan Brunot",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "gulp-util": "~2.2.14",
+    "gulp-uglify": "~0.2.1",
+    "gulp-watch": "~0.5.0",
+    "gulp-concat": "~2.1.7",
+    "gulp-notify": "~1.0.0-beta",
+    "gulp-ruby-sass": "~0.3.1",
+    "gulp-bower-files": "~0.1.9"
+  }
+}
