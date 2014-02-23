@@ -1,8 +1,8 @@
 {
-  "name": "angular-starter",
+  "name": "%project_name%",
   "version": "0.0.1",
   "main": "index.html",
-  "author": "Morgan Brunot",
+  "author": "%author%",
   "license": "MIT",
   "devDependencies": {
     "gulp": "~3.5.2",

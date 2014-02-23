@@ -1,8 +1,8 @@
 {
-  "name": "angular-starter",
+  "name": "%project_name%",
   "version": "0.0.1",
   "authors": [
-    "Morgan Brunot <brunot.morgan@gmail.com>"
+    "%author%"
   ],
   "license": "MIT",
   "dependencies": {
