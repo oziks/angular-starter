@@ -9,7 +9,10 @@ var gulp   = require('gulp'),
 
 // bower task
 gulp.task('bower', function () {
-  bower().pipe(gulp.dest("./src/vendor"));
+  bower().pipe(gulp.dest("./src/vendor"))
+    .pipe(notify({
+      message: "Manage files locations for bower dependencies!"
+    }));
 });
 
 // sass task
