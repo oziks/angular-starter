@@ -4,9 +4,9 @@ My minimal starter for an angular project using [**bower**](http://bower.io/) an
 
 ## Initialization
 
-Run `install.sh` script.
+Run the `install.sh` script.
 
-It change automatically your project name and author. Don't forget to delete it after execution.
+It automatically updates your project's name and author. Don't forget to delete it after execution.
 
 ## Installation
 
@@ -21,7 +21,7 @@ $ nmp install
 $ bower install
 ```
 
-Run **gulp** for build assets:
+Run **gulp** to build assets:
 ```bash
 $ gulp
 ```
